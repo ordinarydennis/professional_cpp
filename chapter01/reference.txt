@@ -1,0 +1,6 @@
+#ifndef... 와 #pragma once의 차이점
+https://kldp.org/node/46662
+http://tmsen.tistory.com/m/28?category=386873
+
+스택 프레임
+http://redscreen.tistory.com/10

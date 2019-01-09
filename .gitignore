@@ -95,3 +95,14 @@ chapter14/chapter14/Debug/vc141.pdb
 chapter14/Debug/chapter14.exe
 chapter14/Debug/chapter14.ilk
 chapter14/Debug/chapter14.pdb
+*.exe
+*.ilk
+*.pdb
+chapter17/.vs/chapter17/v15/.suo
+*.opendb
+*.vcxproj
+*.filters
+chapter17/chapter17/Debug/chapter17.log
+chapter17/chapter17/Debug/main.obj
+chapter17/chapter17/Debug/main2.obj
+chapter17/chapter17/Debug/vc141.idb
